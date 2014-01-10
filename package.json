@@ -1,0 +1,10 @@
+{
+  "name": "EmployeeDirectory",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "",
+    "underscore": "",
+    "backbone": "",
+    "hbsfy": ""
+  }
+}
