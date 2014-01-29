@@ -1,4 +1,4 @@
-var $ = require('jquery')(window),
+var $ = require('jquery'),
     Backbone = require('backbone'),
     EmployeeListView = require('./EmployeeList'),
     template = require("../templates/Reports.hbs");

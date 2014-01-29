@@ -1,5 +1,5 @@
 var Backbone = require('backbone'),
-    $ = require('jquery')(window),
+    $ = require('jquery'),
 
     employees = [
         {"id": 1, "firstName": "James", "lastName": "King", "managerId": 0, "managerName": "", "reports": 4, "title": "President and CEO", "department": "Corporate", "cellPhone": "617-000-0001", "officePhone": "781-000-0001", "email": "jking@fakemail.com", "city": "Boston, MA", "pic": "james_king.jpg", "twitterId": "@fakejking", "blog": "http://coenraets.org"},

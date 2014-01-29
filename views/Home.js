@@ -1,5 +1,5 @@
 var Backbone = require('backbone'),
-    $ = require('jquery')(window),
+    $ = require('jquery'),
     Backbone = require('backbone'),
     EmployeeListView = require('./EmployeeList'),
     models = require('../models/memory/employee'),

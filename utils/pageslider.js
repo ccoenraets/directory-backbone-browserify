@@ -3,7 +3,7 @@
  * - jQuery dependency for now. This could also be easily removed.
  */
 
-var $ = require('jquery')(window);
+var $ = require('jquery');
 
 module.exports = function PageSlider(container) {
 
