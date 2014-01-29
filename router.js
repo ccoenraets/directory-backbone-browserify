@@ -1,6 +1,6 @@
 "use strict";
 
-var $ = require('jquery')(window),
+var $ = require('jquery'),
     Backbone = require('backbone');
 
 Backbone.$ = $;
