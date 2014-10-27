@@ -6,5 +6,8 @@
     "underscore": "",
     "backbone": "",
     "hbsfy": ""
+  },
+  "devDependencies": {
+    "handlebars": "^2.0.0"
   }
 }
